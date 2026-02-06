@@ -1,0 +1,86 @@
+[
+  {
+    "amount": 100,
+    "receiptPrinted": true,
+    "type": "WITHDRAW",
+    "username": "moha",
+    "timestamp": "2026-01-27T19:42:13.360079"
+  },
+  {
+    "amount": 1000,
+    "receiptPrinted": false,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-27T19:42:44.698042"
+  },
+  {
+    "amount": 1000,
+    "receiptPrinted": true,
+    "type": "WITHDRAW",
+    "username": "moha",
+    "timestamp": "2026-01-27T19:53:15.151301"
+  },
+  {
+    "amount": 100,
+    "receiptPrinted": true,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-27T19:56:38.633136"
+  },
+  {
+    "amount": 500,
+    "receiptPrinted": true,
+    "type": "WITHDRAW",
+    "username": "moha",
+    "timestamp": "2026-01-27T20:08:23.768460"
+  },
+  {
+    "amount": 200,
+    "receiptPrinted": true,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-27T20:09:09.258085"
+  },
+  {
+    "amount": 10000,
+    "receiptPrinted": false,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-27T20:10:09.595173"
+  },
+  {
+    "amount": 300,
+    "receiptPrinted": true,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-27T23:39:47.706754"
+  },
+  {
+    "amount": 1000,
+    "receiptPrinted": true,
+    "type": "WITHDRAW",
+    "username": "moha",
+    "timestamp": "2026-01-29T15:22:40.675905"
+  },
+  {
+    "amount": 100,
+    "receiptPrinted": true,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-29T15:22:58.689996"
+  },
+  {
+    "amount": 100,
+    "receiptPrinted": true,
+    "type": "DEPOSIT",
+    "username": "moha",
+    "timestamp": "2026-01-29T15:44:29.571597"
+  },
+  {
+    "amount": 50,
+    "receiptPrinted": false,
+    "type": "TRANSFER",
+    "username": "ahma",
+    "timestamp": "2026-01-29T16:16:05.918486"
+  }
+]

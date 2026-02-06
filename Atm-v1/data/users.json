@@ -1,0 +1,16 @@
+[
+  {
+    "pin": "4321",
+    "balance": 11120,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "moha"
+  },
+  {
+    "pin": "1234",
+    "balance": 1020,
+    "failedAttempts": 0,
+    "locked": false,
+    "username": "ahmed"
+  }
+]

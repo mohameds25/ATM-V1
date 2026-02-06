@@ -1,0 +1,10 @@
+{
+  "operational": true,
+  "cash": {
+    "100": 10,
+    "50": 4,
+    "20": 10,
+    "10": 7
+  },
+  "receiptPaper": 4
+}
